@@ -1,0 +1,2 @@
+# US
+Dest=84;ImageVersion=000006fc;SystemSoftwareVersion=1.0200;CDN=http://[set this to your server's domain name/ip]/update/ps3/image/us/2006_1111_da5438f39b3b6e5ef904d91162d93086/PS3UPDAT.PUP;CDN_Timeout=30;
